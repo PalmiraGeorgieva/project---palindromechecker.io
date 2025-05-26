@@ -18,6 +18,9 @@ body {
       gap: 5px;
    box-shadow: #b41d1e;   
   }
+#result {
+    text-align: center;
+}
   #text-input {
     padding: 8px;
     height: 12px;
